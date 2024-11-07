@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    color:blueviolet;
+    font-family: "kabalammo", system-ui;
+}
+header {
+    border-bottom: solid  blue;
+    padding:0xp;
+    font: size 32xp;
+    color: blue;
+}
+section {
+    background: pink rpg(147, 69, 147);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
